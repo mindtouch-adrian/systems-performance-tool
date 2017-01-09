@@ -37,7 +37,9 @@ watch -n 2 "vmwstat -d"
 sudo su -
 
 # show load and who's logged in
-w
+
+
+
 ```
 
 
@@ -204,6 +206,15 @@ http://brendangregg.com/Perf/linux_observability_tools.png
 
 http://brendangregg.com/Perf/linux_perf_tools_full.png
 
+https://www.youtube.com/watch?v=N3saR9D7hq8
+
+https://www.youtube.com/playlist?list=PL48_jCG_XgHfakTc7HdbeRfCV1hZvENGA
+-Git For Ages 4 And Up
+-Randal Schwartz Introduction to Git
+-Jessica Kerr "Git Happens"
+
+Great Visualization
+https://onlywei.github.io/explain-git-with-d3/
 
 
 
